@@ -18,6 +18,9 @@ Copyleft (CC) 2007 Fernando Henrique R Silva
  along with this program; if not, write to the Free Software
  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
+Autores: liquuid - pontape inicial
+	 nighto  - alinhamento geral
+
 """
 #
 # Declaracao dos headers usados pelo programa
@@ -136,10 +139,10 @@ class Curd(gtk.Window):
 
 # titulo da janela
 
-       self.set_title("curd 0.01a")
+       self.set_title("curd 0.02a")
 # borda entre os widgets e a borda da janela
        self.set_border_width(10)
-       nome = "joao"
+      # nome = "joao"
 # Desenha tudo...
 
        self.show_all()

@@ -10,5 +10,5 @@ formatos = [
 'SVCD [PAL]'		, 'pal-svcd'	,
 'SVCD [NTSC]'		, 'ntsc-svcd'	,
 'YV12 para PDP [mov]'	, 'mov'		,
-'FLV para MPG'		, 'flvmpg'
+'FLV [MPG]'		, 'flvmpg'
 ]
